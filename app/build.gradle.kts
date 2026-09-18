@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.apollo.missioncontrol"
+    namespace = "com.apollo.Keychain-v1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.apollo.missioncontrol"
+        applicationId = "com.apollo.Keychain-v1"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
