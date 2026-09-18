@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.apollo.Keychain-v1"
+    namespace = "com.apollo.keychainv1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.apollo.Keychain-v1"
+        applicationId = "com.apollo.keychainv1"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
